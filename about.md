@@ -1,20 +1,16 @@
 ---
-title: About me
+title: Hello World
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: False
 ---
-<!-- 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing. -->
 
-<!-- If you have a question about him or else, just send a letter to him. -->
+I am a passionate and hard working engineer who has always been inspired by innovation and competition. I am always trying to learn new things and implementing what I have learnt in the form of side projects or teaching it to someone else. My ultimate goal in life is to improve peoples' lives, be it through tech or through some other medium.
 
-<!-- You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else. -->
+I love coffee, football (soccer for all you North American folks), chess, reading books and listening to songs (Big Coldplay Fan). You can checkout my playlists [here](https://open.spotify.com/user/i00as4onhh3gtwpwz8wfl764b). 
 
-<!-- **may u needs ✨**
+My Myers-Briggs Type Indicator (MBTI) is ENFP-A [Extraverted Intuitive Feeling Prospecting Assertive]. The favorite people I supposedly share my personality type with are Robert Downey Jr, Robin Williams, Will Smith and Michael Scott (<em>The Office</em>). You too should take the test [here](https://www.16personalities.com/free-personality-test). 
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }} -->
-
+If you want to discuss something with me or just want to say Hi, connect with me on [LinkedIn](https://www.linkedin.com/in/japjeetrekhi) or send me a [mail](mailto:japjeetsingh.rekhi@stonybrook.edu).
 

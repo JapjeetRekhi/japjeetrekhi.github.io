@@ -1,7 +1,7 @@
 # Site settings
 title: Japjeet Rekhi | Software Engineer # site title
 description: >- # site description
-  Japjeet is a Software Engineer, currently studying at Stony Brook University, New York.
+  Japjeet is a Software Engineer, currently pursuing his Master's in CS at Stony Brook University, New York.
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,7 +11,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Japjeet Singh Rekhi # author name
   bio: >- # tell to the world
-    Hi! I am a Software Engineer, studying at Stony Brook University, New York. I am currently looking for full time positions starting Feb, 2021.
+    Hi! I am a Software Engineer, currently pursuing my Master's in CS at Stony Brook University, New York. I am looking for full time positions starting Feb, 2021.
   username: japjeetrekhi # general username
   github: japjeetrekhi # github username
   twitter: japjeetrekhi # twitter username

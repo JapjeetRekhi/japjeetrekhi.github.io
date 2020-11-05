@@ -2,12 +2,12 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: 
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+To my parents, for the sacrifices, they have made so that I can reach where I am today. 
 
-<hr>
+To my brother, for all the guidance and inspiration. 
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+Lastly, to all my friends, for the weird, fun, and crazy experiences. You know who you are, and you mean a lot to me. 😌
