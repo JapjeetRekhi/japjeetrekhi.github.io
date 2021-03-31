@@ -1,7 +1,7 @@
 # Site settings
-title: Japjeet Rekhi | Software Engineer # site title
+title: Japjeet Rekhi | Software Engineer (AWS) # site title
 description: >- # site description
-  Japjeet is a Software Engineer, currently pursuing his Master's in CS at Stony Brook University, New York.
+  Japjeet is a Software Engineer at Amazon Web Services, Inc. 
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,13 +11,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Japjeet Singh Rekhi # author name
   bio: >- # tell to the world
-    Hi! I am a Software Engineer, currently pursuing my Master's in CS at Stony Brook University, New York. I am looking for full time positions starting Feb, 2021.
+    Hi! I am a Software Engineer at Amazon Web Services. I work at AWS Activate and I am currently based in Seattle.
   username: Japjeet Rekhi # general username
   github: japjeetrekhi # github username
   twitter: japjeetrekhi # twitter username
   facebook: japjeetrekhi # facebook username
-  email: japjeetsingh.rekhi@stonybrook.edu # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  email: japjeetsingh.rekhi@gmail.com # email adress
+  avatar: /assets/img/avatar2.jpg # change with your own avatar
 
 # URL settings
 url: https://japjeetrekhi.github.io #

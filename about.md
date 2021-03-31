@@ -11,5 +11,7 @@ I love coffee, football (soccer for all you North American folks), chess, readin
 
 My Myers-Briggs Type Indicator (MBTI) is ENFP-A [Extraverted Intuitive Feeling Prospecting Assertive]. The favorite people I supposedly share my personality type with are Robert Downey Jr, Robin Williams, Will Smith, and Michael Scott (The Office). You can take the test [here](https://www.16personalities.com/free-personality-test). 
 
-If you want to discuss something with me or want to say Hi, connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/japjeetrekhi) or send me a [mail](mailto:japjeetsingh.rekhi@stonybrook.edu).
+On March 15, 2021, I started my first job as a Software Engineer at [Amazon Web Services, Inc](https://aws.amazon.com/).
+
+If you want to discuss something with me or want to say Hi, connect with me on [LinkedIn](https://www.linkedin.com/in/japjeetrekhi) or send me a [mail](mailto:japjeetsingh.rekhi@stonybrook.edu).
 
